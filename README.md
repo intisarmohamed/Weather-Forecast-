@@ -4,8 +4,7 @@ An application which shows the weather forecast for multiple cities.
 
 ## Deployed Link
 
-https://intisarmohamed.github.io/Weather-Dashboard/
-
+https://intisarmohamed.github.io/Weather-Forecast-/
 ## Overview
 
 This Weather-dashboard provides the weather forecast of a searched city for the 5 upcoming days, using the Open Weather Map data API.
