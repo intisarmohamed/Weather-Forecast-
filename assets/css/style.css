@@ -1,0 +1,10 @@
+/* Universal styling*/
+* {
+  box-sizing: border-box;
+}
+/* forecast card styling*/
+.forecast-card {
+  width: 18rem;
+  background-color: #333339;
+  color: white;
+}
