@@ -6,7 +6,7 @@ This Weather-dashboard provides the weather forecast of a searched city for the 
 
 ### Deployed Link
 
-https://intisarmohamed.github.io/Weather-Dashboard/
+https://intisarmohamed.github.io/Weather-Forecast-/
 
 ### Technologies used
 
